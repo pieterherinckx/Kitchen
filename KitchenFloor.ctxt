@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=KitchenFloor
+comment0.text=\r\n\ A\ world\ where\ wombats\ live.\r\n\ \r\n\ @author\ Pieter\ Herinckx\r\n\ @version\ 1.0.0\r\n
+comment1.params=
+comment1.target=KitchenFloor()
+comment1.text=\r\n\ Create\ a\ new\ world\ with\ 10x10\ cells\ and\r\n\ with\ a\ cell\ size\ of\ 50x50\ pixels\r\n
+numComments=2
